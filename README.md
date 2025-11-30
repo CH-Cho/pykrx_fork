@@ -1,4 +1,4 @@
-This is a derivatives from pykrx.
+This is a derivatives from pykrx. (https://github.com/sharebook-kr/pykrx.git)
 
 Add some methods on top of pykrx.
 
